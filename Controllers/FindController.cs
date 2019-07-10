@@ -1,8 +1,6 @@
 ﻿using api.CEP.Data;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
-using System.Collections.Generic;
 
 namespace api.CEP.Controllers
 {
